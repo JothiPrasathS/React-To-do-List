@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "checked": true,
+      "item": "Practice Coding"
+    },
+    {
+      "id": 2,
+      "checked": true,
+      "item": "Practice React"
+    },
+    {
+      "id": 3,
+      "checked": true,
+      "item": "Practice AI"
+    },
+    {
+      "id": 4,
+      "checked": false,
+      "item": "Shetty G"
+    }
+  ]
+}
